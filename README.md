@@ -1,7 +1,7 @@
 # Introduction
 
-Hi, i am documenting my solution on how i solve Advent of Code using python.
+Hi, i am documenting my solution to solve annual Advent of Code using python.
 
-# URL to access Advent of Code
+# URL to access Advent of Code challenges
 
 https://adventofcode.com/
