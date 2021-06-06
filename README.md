@@ -1,10 +1,7 @@
-# advent-code-solution
+# Introduction
 
-My solution to solve Advent of Code using python.
-Purely interest. 
+Hi, i am documenting my solution on how i solve Advent of Code using python.
 
 # URL to access Advent of Code
 
 https://adventofcode.com/
-
-
