@@ -5,12 +5,6 @@ part_one_answer = 0
 part_two_answer = 0
 
 ## Function
-def get_data(file):
-    with open(file) as f:
-        data = f.readlines()
-    #print(len(data))
-    return data
-
 def print_answers(part_one, part_two):
     print("######################################")
     print("Part 1 Answer: " + str(part_one))
@@ -51,11 +45,6 @@ def hash_it(data):
     return hashlib.md5(data.encode()).hexdigest()
 
 ## Execution
-actual = "data.txt"
-sample = "sample.txt"
-
-#data = get_data(sample)
-
 data="ckczppom"
 
 ## processing...
